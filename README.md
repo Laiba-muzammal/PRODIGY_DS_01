@@ -1,6 +1,5 @@
-# PRODIGY_DS_01
+# Income vs Expenditure Visualization
 <pre>
-<h3>Income vs Expenditure Visualization</h3>
 This Python script visualizes income and expenditure data using overlapping histograms. 
 It leverages `pandas` for data handling and `matplotlib` for plotting.
 

@@ -24,7 +24,7 @@ This Python project visualizes the comparison between income and expenditure dis
 ## 📁 File Structure
 
 ```
-income_expense_analysis/
+SpendInsight/
 ├── main.py # Entry point, runs the plot
 ├── data.py # Contains the data (optional modularization)
 ├── plot.py # Contains histogram plotting logic
